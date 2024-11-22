@@ -51,11 +51,11 @@ Das Ergebnis wird dem Benutzer angezeigt, wie viele Kalorien pro Tag er verbrauc
 
 
 ### Screenshot Angaben-zur-Person
--![Ausgabe Code übung 4]()
+-![Ausgabe Code übung 4](https://github.com/Xoisi/4Ue_ITL12_CalRechnerMario/blob/main/Angaben-zur-Person.png)
 ### berechnung-durchführen
--![Ausgabe Code übung 4]()
+-![Ausgabe Code übung 4](https://github.com/Xoisi/4Ue_ITL12_CalRechnerMario/blob/main/berechnung-durchf%C3%BChren.png)
 ### Screenshot Tägliche Bewegung
--![Ausgabe Code übung 4]()
+-![Ausgabe Code übung 4](https://github.com/Xoisi/4Ue_ITL12_CalRechnerMario/blob/main/T%C3%A4gliche%20Bewegung.png)
 
 ## Lizenz
 Dieses Projekt ist für Bildungszwecke im Rahmen des ITL-Unterrichts an der Landesberufsschule Eibiswald gedacht.
