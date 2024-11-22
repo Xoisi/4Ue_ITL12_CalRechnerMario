@@ -23,7 +23,7 @@ Bsp: 4 h sitzend, 6 h Büro, 2 h stehend/gehend = 12 h Gesamt dh. 12 h Schlaf bl
 
 Das Ergebnis wird als täglicher Kalorienbedarf welche notwendig ist, um sein Gewicht zu halten, angegeben.
 Um abzunehmen sollten ca. 400 Kalorien weniger konsumiert werden. Beim Zunehmen entsprechend deutlich mehr.
-
+<span style="color: red;">Dein Text hier</span>
 
 **Benutzerinteraktion:**
 Der Benutzer sieht ein Formular mit Fragen zu Geschlecht, Alter, Gewicht und Größe sowie Aktivitäten.
