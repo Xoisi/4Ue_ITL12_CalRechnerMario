@@ -1,4 +1,4 @@
-# <span style="color: blue;">4Ue_ITL12_CalRechnerMario ☺</span>
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 # 4Ue_ITL12_CalRechnerMario ☺
 Übung 4 ITL1+2:
 #Kalorienbedarf-rechner
