@@ -1,5 +1,5 @@
 # 4Ue_ITL12_CalRechnerMario
-Übung ITL
+Übung 4 ITL1+2 
 # Primzahlen-loga-Bezeingabe
 Primzahlen/loga/Bezeingabe
 -----
