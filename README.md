@@ -1,16 +1,12 @@
-# 4Ue_ITL12_CalRechnerMario
-Übung 4 ITL1+2 
-# Primzahlen-loga-Bezeingabe
-Primzahlen/loga/Bezeingabe
+# 4Ue_ITL12_CalRechnerMario ☺
+Übung 4 ITL1+2:
+#Kalorienbedarf-rechner
+Erfordert Eingaben zur Person, und der Zeit die sie diese Tätlichkeit welche Aktivität wie lange durchgeführt wurde.
+Das Ergebnis ist ein Richtwert, der nicht Präzise ist.
+Bezeingabe: 
 -----
-
-
-
 ## Mario
-
 ## Aufgabenbeschreibung
-
-
 ### 1.	Aufgabenstellung
 **Kalorienrechner:**
 1.	Aufgabenstellung
@@ -29,9 +25,7 @@ Das Ergebnis wird als täglicher Kalorienbedarf welche notwendig ist, um sein Ge
 Um abzunehmen sollten ca. 400 Kalorien weniger konsumiert werden. Beim Zunehmen entsprechend deutlich mehr.
 
 
-2. Übung:
-Benutzerinteraktion:
-
+**Benutzerinteraktion:**
 Der Benutzer sieht ein Formular mit Fragen zu Geschlecht, Alter, Gewicht und Größe sowie Aktivitäten.
 Dateneingabe:
 
@@ -44,11 +38,11 @@ Ein Activity Level Factor (PAL) wird berechnet, um den täglichen Aktivitätsniv
 Ergebnis Berechnung:
 
 **Der tägliche Kalorienbedarf basierend auf der PAL wird errechnet.**
-Ausgabe des Ergebnisses:
-
+PAL:
++Der PAL-Wert (Physical Activity Level) beschreibt das Maß deiner täglichen körperlichen Aktivität. Er wird verwendet, um den gesamten Kalorienbedarf zu berechnen, indem er den Grundumsatz mit dem Aktivitätsniveau multipliziert
+**Ausgabe des Ergebnisses:**
 Das Ergebnis wird dem Benutzer angezeigt, wie viele Kalorien pro Tag er verbrauchen sollte
 -----------------------------------------------
-
 
 ### Screenshot Angaben-zur-Person
 -![Ausgabe Code übung 4](https://github.com/Xoisi/4Ue_ITL12_CalRechnerMario/blob/main/Angaben-zur-Person.png)
